@@ -1,2 +1,2 @@
 # simple_xor_decoder
-Decoder that I writes every time, when I get such task
+Decoder that I implement every time, when I get such task
